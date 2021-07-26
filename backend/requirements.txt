@@ -7,3 +7,9 @@ psycopg2
 
 #for env
 python-dotenv
+
+#email validation
+pydantic[email]
+
+#hashing
+passlib[bcypt]
